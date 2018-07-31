@@ -4,11 +4,12 @@
 
 # Site
 title: 孝义博客
-subtitle:
-description:
-keywords:
+subtitle: 
+description: 胡孝义的博客
+keywords: 胡孝义, 博客
 author: 胡孝义
-language:
+email: evanxyhu@163.com
+language: zh-CN
 timezone:
 
 # URL

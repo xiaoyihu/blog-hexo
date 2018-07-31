@@ -32,6 +32,10 @@ zmrenwu.com说：
 这个可以搞，但是远水解不了近渴，说不定可以创个业。
 
 
+## 他人自研
+- [Gitment](https://imsun.net/posts/gitment-introduction/)：使用 GitHub Issues 搭建评论系统
+
+
 
 ## 结论
 自己的blog，暂时就不要评论了，没办法。以后再慢慢加上去。
