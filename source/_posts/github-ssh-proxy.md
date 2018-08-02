@@ -1,7 +1,11 @@
 ---
 title: github ssh代理的使用方法
 date: 2018-07-30 12:37:03
-tags:
+tags: 
+- github 
+- ssh 
+- proxy
+categories: 技术
 ---
 
 
